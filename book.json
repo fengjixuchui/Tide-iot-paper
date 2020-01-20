@@ -15,10 +15,10 @@
 	],
     "pluginsConfig": {
         "donate": {
-          "wechat": "/images/wechat.jpg",
+          "wechat": "/Tide-iot-paper/images/wechat.jpg",
           "title": "",
           "button": "关注我们",
-          "wechatText": "微信公众号"
+          "wechatText": "Tide安全团队"
         },
 		"hide-element": {
             "elements": [".gitbook-link"]
