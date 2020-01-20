@@ -15,7 +15,7 @@
 	],
     "pluginsConfig": {
         "donate": {
-          "wechat": "/Tide-iot-paper/images/wechat.jpg",
+          "wechat": "/images/wechat.jpg",
           "title": "",
           "button": "关注我们",
           "wechatText": "微信公众号"
